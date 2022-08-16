@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/mauFade/jwt-auth-api#readme",
   "dependencies": {
+    "@types/sqlite3": "^3.1.8",
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
